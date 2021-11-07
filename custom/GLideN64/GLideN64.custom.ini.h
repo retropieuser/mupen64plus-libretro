@@ -55,7 +55,7 @@ char customini[] =
 "\n"
 "[DONKEY%20KONG%2064]\n"
 "Good_Name=Donkey Kong 64 (E)(J)(U)\n"
-"frameBufferEmulation\\copyDepthToRDRAM=1\n"
+"frameBufferEmulation\\copyDepthToRDRAM=0\n"
 "frameBufferEmulation\\N64DepthCompare=0\n"
 "\n"
 "[DR.MARIO%2064]\n"
